@@ -1,0 +1,136 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To identify materials</title>
+  <metadata>
+  <md:content-id>m20273</md:content-id><md:title>To identify materials</md:title>
+  <md:abstract/>
+  <md:uuid>fd3ace47-1f4a-488c-9cb2-9e2efad5de52</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6853255">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id6853255">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6982941">
+      <title>The earth and beyond</title>
+      <para id="para-id6982941">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12780521">
+      <title>Properties and uses of materials</title>
+      <para id="para-id12780521">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3513355">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id3513355">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10796458">
+      <title>Memorandum</title>
+      <para id="id7055490">Assignment 1 (group work):</para>
+      <table id="id11370134" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>TYPE OF MATERIAL</entry>
+              <entry>USE</entry>
+            </row>
+            <row>
+              <entry>Metals</entry>
+              <entry>Used to make knives, forks, pots, pans, and ornaments. (There can be many other examples)</entry>
+            </row>
+            <row>
+              <entry>Fibres</entry>
+              <entry>Curtains, mats, clothes are made from fibres. (There can be many other examples)</entry>
+            </row>
+            <row>
+              <entry>Plastic</entry>
+              <entry>Plastic bowls, combs, brushes, etc. (There can be many other examples)</entry>
+            </row>
+            <row>
+              <entry>Glass </entry>
+              <entry>Window panes, drinking glasses, wine glasses, ashtrays etc. (There can be many other examples)</entry>
+            </row>
+            <row>
+              <entry>Wood</entry>
+              <entry>Furniture, tables, ornaments etc. (There can be many other examples)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id10710755">
+      <title>LEANER SECTION</title>
+      <para id="para-id10710755">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12015154">
+      <title>Content</title>
+      <section id="id7115962">
+        <title>ACTIVITY: To identify materials [LO 1.1, LO 2.2]</title>
+        <para id="id11921599">You already know that everything on earth consists of matter, (plants, animals, and non-living things) from a small speck of dust to a large planet.</para>
+        <para id="id4755739">A pane of glass in a window looks different from a drinking glass, but both are made from the same material, glass. Some substances may look similar and have the same colour but might differ in smell, taste, hardness, texture and elasticity. These are called the properties of materials and are used to describe the materials.</para>
+        <para id="id7042026">
+          <figure id="id6940001">
+            <media id="id6940001_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-752d.png" id="id6940001__onlineimage" height="424" width="349"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id4683301">ASSIGNMENT (GROUP WORK)</para>
+        <list id="id4683304" list-type="bulleted">
+          <item>Work in groups. Look in a newspaper or magazine for a picture that shows different materials.</item>
+          <item>Indicate the various kinds of materials that are shown in the picture and say what they are used for.</item>
+        </list>
+        <table id="id13858660" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Type of Material</entry>
+                <entry>Uses</entry>
+              </row>
+              <row>
+                <entry>Metal</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Fibres</entry>
+                <entry>______________________________________________</entry>
+              </row>
+              <row>
+                <entry>Plastic</entry>
+                <entry>____________________________________________________________________________________________</entry>
+              </row>
+              <row>
+                <entry>Glass</entry>
+                <entry>____________________________________________________________________________________________</entry>
+              </row>
+              <row>
+                <entry>Wood</entry>
+                <entry>____________________________________________________________________________________________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id11693789">
+      <title>Assessment</title>
+      <para id="id12984256"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>Learners respond confidently to their desire to learn about natural phenomena; they investigate relationships and solve problems within the context of science, technology and the environment.</para>
+      <para id="id6502718"><emphasis><emphasis effect="italics">Assessment Standard 1.1:</emphasis></emphasis> We know this when the learner plans investigations: helps to clarify focus questions for investigation and describes the kind of information which would be needed to answer the question.</para>
+      <para id="id11220092"><emphasis><emphasis effect="italics">Learning Outcome 2:</emphasis></emphasis>Learners know, interpret and apply scientific, technological and environmental knowledge.</para>
+      <para id="id12525782"><emphasis><emphasis effect="italics">Assessment Standard 2.2:</emphasis></emphasis> We know this when the learner categorises information: categorises objects and organisms by two variables.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,167 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To classify materials</title>
+  <metadata>
+  <md:content-id>m20276</md:content-id><md:title>To classify materials</md:title>
+  <md:abstract/>
+  <md:uuid>45892fe2-8db8-4ba9-9e52-4ccb55058340</md:uuid>
+</metadata>
+
+<content>
+    <section id="id5176898">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id5176898">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5176906">
+      <title>The earth and beyond</title>
+      <para id="para-id5176906">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5751702">
+      <title>Properties and uses of materials</title>
+      <para id="para-id5751702">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5751710">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id5751710">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5759430">
+      <title>Memorandum</title>
+      <section id="id5310165">
+        <title/>
+        <para id="id5310174">Complete the following table:</para>
+        <table id="id5795664" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>PROPERTIES</entry>
+                <entry>SOLID</entry>
+                <entry>LIQUID</entry>
+                <entry>GAS</entry>
+              </row>
+              <row>
+                <entry>VOLUME</entry>
+                <entry/>
+                <entry/>
+                <entry>It does not have a fixed volume – the volume changes easily. It spreads and occupies the available space.</entry>
+              </row>
+              <row>
+                <entry>FORM</entry>
+                <entry/>
+                <entry>It takes the form of the container.</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>WEIGHT</entry>
+                <entry/>
+                <entry/>
+                <entry>It has weight</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5198448">Examples of phase changes:</para>
+        <list id="id5198452" list-type="bulleted">
+          <item>Solid to liquid ice to water</item>
+          <item>Liquid to solid water to ice</item>
+          <item>Liquid to gas  boiling water to water vapour</item>
+          <item>Gas to liquid water vapour / moisture condensing against glass, e.g. car  windows or kitchen windows</item>
+        </list>
+      </section>
+    </section>
+    <section id="id5750069">
+      <title>LEANER SECTION</title>
+      <para id="para-id5750069">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5750077">
+      <title>Content</title>
+      <section id="id5135122">
+        <title>ACTIVITY: To classify materials [LO 2.2, LO 2.3]</title>
+        <list id="id5777785" list-type="bulleted">
+          <item>Classification is when we divide substances with the same properties into groups.</item>
+          <item>Scientists classify different materials in different ways. The most well known way is the classification into solids, liquids and gases.</item>
+        </list>
+        <para id="id5321061">Complete the following table:</para>
+        <table id="id5321066" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>PROPERTIES</entry>
+                <entry>SOLID</entry>
+                <entry>LIQUID</entry>
+                <entry>GAS</entry>
+              </row>
+              <row>
+                <entry>VOLUME</entry>
+                <entry>Has a fixed volume.</entry>
+                <entry>Has a fixed volume.</entry>
+                <entry>________________________________________________________</entry>
+              </row>
+              <row>
+                <entry>FORM</entry>
+                <entry>Has a fixed form.</entry>
+                <entry> ______________ ______________ ______________</entry>
+                <entry>Takes on the form of the container.</entry>
+              </row>
+              <row>
+                <entry>WEIGHT</entry>
+                <entry>Has weight.</entry>
+                <entry>Has weight.</entry>
+                <entry> ______________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5073152">A substance can change from one state to another through heating or cooling: </para>
+        <figure id="id5123938">
+          <media id="id5123938_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-81e9.png" id="id5123938__onlineimage" height="370" width="364"/>
+          </media>
+        </figure>
+        <para id="id5208180">Give an example of the following changes:</para>
+        <list id="id5208184" list-type="bulleted">
+          <item>Solid to liquid:</item>
+        </list>
+        <para id="id5758888">_____________________________________________________________________</para>
+        <para id="id5758894">_____________________________________________________________________</para>
+        <list id="id5758899" list-type="bulleted">
+          <item>Liquid to solid:</item>
+        </list>
+        <para id="id5136018">_____________________________________________________________________</para>
+        <para id="id5093411">_____________________________________________________________________</para>
+        <list id="id5093416" list-type="bulleted">
+          <item>Liquid to gas:</item>
+        </list>
+        <para id="id5313076">_____________________________________________________________________</para>
+        <para id="id5313081">_____________________________________________________________________</para>
+        <list id="id5313086" list-type="bulleted">
+          <item>Gas to liquid:</item>
+        </list>
+        <para id="id5071608">_____________________________________________________________________</para>
+        <para id="id5200342">_____________________________________________________________________</para>
+      </section>
+    </section>
+    <section id="id5200348">
+      <title>Assessment</title>
+      <para id="id5789760"><emphasis><emphasis effect="italics">Learning Outcome 2:</emphasis></emphasis>Learners know, interpret and apply scientific, technological and environmental knowledge.</para>
+      <para id="id5210992"><emphasis><emphasis effect="italics">Assessment Standard 2.2:</emphasis></emphasis> We know this when the learner categorises information: categorises objects and organisms by two variables.</para>
+      <para id="id5781535"><emphasis><emphasis effect="italics">Assessment Standard 2.3:</emphasis></emphasis><emphasis>We know this when the learner</emphasis>interprets information: at the minimum, interprets information by using alternative forms of the same information.</para>
+    </section>
+  </content>
+</document>

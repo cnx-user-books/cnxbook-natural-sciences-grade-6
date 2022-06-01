@@ -1,0 +1,237 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To be able to describe the uses of electrical energy</title>
+  <metadata>
+  <md:content-id>m20639</md:content-id><md:title>To be able to describe the uses of electrical energy</md:title>
+  <md:abstract/>
+  <md:uuid>d4b2d56d-c6f7-4078-9504-7954d48eac97</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6611921">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id6611921">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id28968318">
+      <title>Energy transfers and systems</title>
+      <para id="para-id28968318">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id15333845">
+      <title>The uses of electricity</title>
+      <para id="para-id15333845">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id20968479">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id20968479">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id28634364">
+      <title>Memorandum</title>
+      <para id="id14106502">Table: Example (accept other suggestions from learners)</para>
+      <table id="id24816190" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Function</entry>
+              <entry>Appliances</entry>
+              <entry>Functioning as a system</entry>
+            </row>
+            <row>
+              <entry>Warmth</entry>
+              <entrytbl namest="c2" nameend="c3" cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry>Heater</entry>
+                    <entry>Element (metal) becomes hot because of resistance to the current that flows; energy is released in the form of heat. Can heat oil or water.</entry>
+                  </row>
+                  <row>
+                    <entry>Oven</entry>
+                    <entry>As above, but in a container in order to prevent heat loss.</entry>
+                  </row>
+                  <row>
+                    <entry>Stove plate</entry>
+                    <entry>Element that forms a flat surface on which saucepans/pots/pans can stand and come into contact with heat. Flat surface limits heat loss.</entry>
+                  </row>
+                  <row>
+                    <entry namest="c1" nameend="c2">Toaster, kettle, iron, etc.</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>Light</entry>
+              <entrytbl namest="c2" nameend="c3" cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry>Warm light bulb</entry>
+                    <entry>Contains element that glows in container with gas that prevents it from fusing.</entry>
+                  </row>
+                  <row>
+                    <entry>Fluorescent light with two poles where electricity moves through gas</entry>
+                    <entry>Does not become very hot, thus little heat loss.</entry>
+                  </row>
+                  <row>
+                    <entry>Camera flash</entry>
+                    <entry/>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>Motion</entry>
+              <entrytbl namest="c2" nameend="c3" cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry>Vacuum cleaner</entry>
+                    <entry>Electricity makes motor, which is made up of wires and magnets, move. This creates suction-power.</entry>
+                  </row>
+                  <row>
+                    <entry namest="c1" nameend="c2">
+                      <emphasis effect="bold">Lawn mower, drill, eggbeater, fan, are other examples</emphasis>
+                      <emphasis effect="bold">.</emphasis>
+                    </entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>Sound</entry>
+              <entrytbl namest="c2" nameend="c3" cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry>Radio</entry>
+                    <entry>Electricity is used to pick up radio waves and to convert them to sound waves that are then transmitted through the speaker.</entry>
+                  </row>
+                  <row>
+                    <entry namest="c1" nameend="c2">Alarm systems, alarm clocks, TV – similar.</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id28054879"/>
+    </section>
+    <section id="id20966939">
+      <title>LEANER SECTION</title>
+      <para id="para-id20966939">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id27631013">
+      <title>Content</title>
+      <section id="id27967489">
+        <title>Activity: To be able to describe the uses of electrical energy [LO 2.1]</title>
+        <list id="id27551691" list-type="bulleted">
+          <item>Escom is the largest supplier of electricity in South Africa. Their target is to provide electricity to hundreds of “new” schools, hospitals and homes annually.</item>
+          <item>The most general uses, for which electricity is applied, are for the provision of warmth, light, motion and sound.</item>
+          <item>Think of electrical appliances that provide heat, light, movement and sound. Choose two for each of the uses. Research the way in which electrical energy is used to make the appliance perform the function for which it is utilised (in other words, how each one functions as a system).</item>
+          <item>Complete the table below by filling in the information that you have collected. Make sure that you select a variety of appliances in each group. </item>
+        </list>
+        <table id="id28533471" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>FUNCTION</entry>
+                <entry>APPLIANCES</entry>
+                <entry>FUNCTIONING AS A SYSTEM</entry>
+              </row>
+              <row>
+                <entry>WARMTH</entry>
+                <entrytbl namest="c2" nameend="c3" cols="2">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <tbody>
+                    <row>
+                      <entry>1.</entry>
+                      <entry>________________________________________________________________________________________________</entry>
+                    </row>
+                    <row>
+                      <entry>2.</entry>
+                      <entry>________________________________________________________________________________________________</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>LIGHT</entry>
+                <entrytbl namest="c2" nameend="c3" cols="2">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <tbody>
+                    <row>
+                      <entry>1.</entry>
+                      <entry>________________________________________________________________________________________________</entry>
+                    </row>
+                    <row>
+                      <entry>2.</entry>
+                      <entry>________________________________________________________________________________________________</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id26355621" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>GROUP ASSESSMENT CRITERIA</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+              </row>
+              <row>
+                <entry>Correct categorisation</entry>
+                <entry>_____</entry>
+                <entry>_____</entry>
+                <entry>_____</entry>
+                <entry>_____</entry>
+              </row>
+              <row>
+                <entry>Good selection of appliances</entry>
+                <entry>_____</entry>
+                <entry>_____</entry>
+                <entry>_____</entry>
+                <entry>_____</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id27203303">
+      <title>Assessment</title>
+      <para id="id17554634"><emphasis>Learning Outcome 2: </emphasis>The learner will know and be able to interpret and apply scientific, technological and environmental knowledge.</para>
+      <para id="id11436855"><emphasis>Assessment Standard 2.1:</emphasis> We know this when the learner recalls significant information.</para>
+    </section>
+  </content>
+</document>
